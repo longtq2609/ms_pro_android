@@ -10,4 +10,20 @@
     <string name="menu_home">Home</string>
     <string name="menu_gallery">Gallery</string>
     <string name="menu_slideshow">Slideshow</string>
+    <string name="duration_time">%1$s %2$s trước</string>
+    <string name="report_second_ago" formatted="false">Vài giây trước</string>
+    <string name="duration_minutes" formatted="false">%d phút</string>
+    <string name="duration_hour" formatted="false">%d giờ</string>
+    <string name="duration_hour_minutes" formatted="false">%d giờ %d phút</string>
+    <string name="duration_kilommetter" formatted="false">%s km</string>
+    <string name="duration_metter" formatted="false">%d m</string>
+    <string name="progress_is_loading">Đang tải…</string>
+    <string name="error_unknown_host"><![CDATA[>Không kết nối được đến server.]]></string>
+    <string name="error_token_timeout">Phiên làm việc đã hết hạn</string>
+    <string name="minute">phút</string>
+    <string name="hour">giờ</string>
+    <string name="message_permission_always_failed">Bạn đang tắt quyền %1$s. Hãy vào Cài đặt ứng dụng để cấp quyền sử dụng tính năng này</string>
+    <string name="setting">Cài đặt</string>
+    <string name="cancel">Huỷ</string>
+
 </resources>
