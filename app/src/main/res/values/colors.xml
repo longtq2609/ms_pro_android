@@ -11,5 +11,14 @@
     <color name="line">#edefef</color>
     <color name="colorAccent">#00b7bf</color>
     <color name="transparent">#00ffffff</color>
-
+    <color name="user_action_btn">#04a3f2</color>
+    <color name="user_action_border">#efefef</color>
+    <color name="colorPrimary">#00b7bf</color>
+    <color name="primary_2">#646c6c</color>
+    <color name="car_care_green_base">#00b7bf</color>
+    <color name="button_disable">#dde4e4</color>
+    <color name="rsbColorThumbDefault">#FFFFFF</color>
+    <color name="rsbColorThumbBorder">#FFD7D7D7</color>
+    <color name="alert_default_text_color">@android:color/white</color>
+    <color name="alert_default_icon_color">@android:color/white</color>
 </resources>

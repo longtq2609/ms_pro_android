@@ -25,5 +25,9 @@
     <string name="message_permission_always_failed">Bạn đang tắt quyền %1$s. Hãy vào Cài đặt ứng dụng để cấp quyền sử dụng tính năng này</string>
     <string name="setting">Cài đặt</string>
     <string name="cancel">Huỷ</string>
+    <string name="this_function_not_available">Hiện tại chúng tôi đang trong giai đoạn phát triển tính năng này. Xin vui lòng sử dụng sau!</string>
+    <string name="close">Đóng</string>
+    <string name="time_arrive">Giờ đến</string>
+    <string name="confirm">Đồng ý</string>
 
 </resources>

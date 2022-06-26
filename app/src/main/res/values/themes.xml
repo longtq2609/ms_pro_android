@@ -20,6 +20,71 @@
     </style>
 
 
+    <style name="AlertTextAppearance">
+        <item name="android:textColor">@color/alert_default_text_color</item>
+    </style>
+
+    <style name="txt_base">
+        <item name="android:maxLines">1</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:ellipsize">end</item>
+    </style>
+
+    <style name="btn_primary_1" parent="txt_base">
+        <item name="android:background">@drawable/btn_cc_search_filter_grey</item>
+        <item name="android:textColor">@color/car_care_btn_text_white</item>
+        <item name="android:textSize">@dimen/text_size_15sp</item>
+        <item name="android:fontFamily">@font/sftext_bold</item>
+        <item name="android:paddingStart">@dimen/margin_35dp</item>
+        <item name="android:paddingEnd">@dimen/margin_35dp</item>
+        <item name="android:paddingTop">@dimen/margin_12dp</item>
+        <item name="android:paddingBottom">@dimen/margin_12dp</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="btn_primary_2" parent="txt_base">
+        <item name="android:background">@drawable/btn_cc_search_filter_white</item>
+        <item name="android:textColor">@color/car_care_btn_text_grey</item>
+        <item name="android:textSize">@dimen/text_size_15sp</item>
+        <item name="android:fontFamily">@font/sftext_bold</item>
+        <item name="android:paddingStart">@dimen/margin_35dp</item>
+        <item name="android:paddingEnd">@dimen/margin_35dp</item>
+        <item name="android:paddingTop">@dimen/margin_12dp</item>
+        <item name="android:paddingBottom">@dimen/margin_12dp</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="btn_primary_3" parent="txt_base">
+        <item name="android:background">@drawable/btn_cc_search_filter_transparent_2</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">@dimen/text_size_14sp</item>
+        <item name="android:fontFamily">@font/sftext_semibold</item>
+        <item name="android:paddingStart">@dimen/margin_15dp</item>
+        <item name="android:paddingEnd">@dimen/margin_15dp</item>
+        <item name="android:paddingTop">@dimen/margin_10dp</item>
+        <item name="android:paddingBottom">@dimen/margin_10dp</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="AlertStyle" parent="@android:style/Widget">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:minHeight">@dimen/alerter_alert_min_height</item>
+        <item name="android:maxHeight">@dimen/alerter_alert_max_height</item>
+        <item name="android:clickable">true</item>
+        <item name="android:gravity">top</item>
+        <item name="android:paddingTop">@dimen/alerter_alert_padding</item>
+    </style>
+
+    <style name="AlertTextAppearance.Title">
+        <item name="android:textSize">@dimen/alerter_text_medium</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="AlertTextAppearance.Text">
+        <item name="android:textSize">@dimen/alerter_text_small</item>
+    </style>
+
     <style name="CustomAlertDialogStyle">
         <item name="android:bottomBright">@android:color/transparent</item>
         <item name="android:bottomDark">@android:color/transparent</item>

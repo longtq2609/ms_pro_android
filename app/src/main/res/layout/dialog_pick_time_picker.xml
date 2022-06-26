@@ -48,26 +48,24 @@
 
             <TextView
                 android:id="@+id/btnCancel"
-                style="@style/btn_primary_2"
                 android:layout_width="0dip"
                 android:layout_height="@dimen/image_size_46dp"
                 android:layout_marginEnd="@dimen/margin_8dp"
                 android:layout_weight="1"
                 android:gravity="center"
-                android:textSize="@dimen/_10_sdp"
+                android:textSize="@dimen/_10sdp"
                 android:minHeight="@dimen/margin_45dp"
                 android:text="@string/cancel"
                 android:textAllCaps="true" />
 
             <TextView
                 android:id="@+id/btnOk"
-                style="@style/btn_primary_1"
                 android:layout_width="0dip"
                 android:layout_height="@dimen/image_size_46dp"
                 android:layout_marginStart="@dimen/margin_8dp"
                 android:layout_weight="1"
                 android:minHeight="@dimen/margin_45dp"
-                android:textSize="@dimen/_10_sdp"
+                android:textSize="@dimen/_10sdp"
                 android:text="@string/confirm"
                 android:textAllCaps="true" />
         </LinearLayout>

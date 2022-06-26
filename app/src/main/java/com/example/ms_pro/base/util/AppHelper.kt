@@ -103,7 +103,7 @@ object AppHelper {
 
     @JvmStatic
     fun hideKeyboard(context: Activity) {
-        com.blankj.utilcode.util.KeyboardUtils.hideSoftInput(context);
+        KeyboardUtils.hideSoftInput(context);
     }
 
     @JvmStatic

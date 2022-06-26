@@ -4,10 +4,22 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/android-project/Product/ms_pro_android/app/src/main/res/drawable-v24/bg_circle_white.xml" value="0.3405" />
+        <entry key="..\:/android-project/Product/ms_pro_android/app/src/main/res/drawable/alerter_ic_notifications.xml" value="0.2195" />
+        <entry key="..\:/android-project/Product/ms_pro_android/app/src/main/res/drawable/bg_border_radius_8dp.xml" value="0.2195" />
+        <entry key="..\:/android-project/Product/ms_pro_android/app/src/main/res/drawable/bg_btn_user_action.xml" value="0.1845" />
+        <entry key="..\:/android-project/Product/ms_pro_android/app/src/main/res/drawable/btn_cc_search_filter_grey.xml" value="0.2195" />
+        <entry key="..\:/android-project/Product/ms_pro_android/app/src/main/res/drawable/btn_cc_search_filter_transparent_2.xml" value="0.2195" />
+        <entry key="..\:/android-project/Product/ms_pro_android/app/src/main/res/drawable/btn_cc_search_filter_white.xml" value="0.2195" />
+        <entry key="..\:/android-project/Product/ms_pro_android/app/src/main/res/drawable/ic_noti_arrow_more.xml" value="0.2195" />
+        <entry key="..\:/android-project/Product/ms_pro_android/app/src/main/res/drawable/rsb_default_thumb.xml" value="0.185" />
         <entry key="..\:/android-project/Product/ms_pro_android/app/src/main/res/layout/alert_view.xml" value="0.265234375" />
-        <entry key="..\:/android-project/Product/ms_pro_android/app/src/main/res/layout/dialog_function_not_available.xml" value="0.3536458333333333" />
+        <entry key="..\:/android-project/Product/ms_pro_android/app/src/main/res/layout/app_bar_main.xml" value="0.3546875" />
+        <entry key="..\:/android-project/Product/ms_pro_android/app/src/main/res/layout/content_main.xml" value="0.3546875" />
+        <entry key="..\:/android-project/Product/ms_pro_android/app/src/main/res/layout/dialog_function_not_available.xml" value="0.3949748743718593" />
         <entry key="..\:/android-project/Product/ms_pro_android/app/src/main/res/layout/dialog_pick_time_picker.xml" value="0.3536458333333333" />
+        <entry key="..\:/android-project/Product/ms_pro_android/app/src/main/res/layout/fragment_slideshow.xml" value="0.17604166666666668" />
         <entry key="..\:/android-project/Product/ms_pro_android/app/src/main/res/layout/layout_bave_progress.xml" value="0.3546875" />
+        <entry key="..\:/android-project/Product/ms_pro_android/app/src/main/res/layout/layout_money_progress.xml" value="0.17604166666666668" />
         <entry key="..\:/android-project/Product/ms_pro_android/app/src/main/res/layout/layout_user_action_button.xml" value="0.3546875" />
         <entry key="..\:/android-project/Product/ms_pro_android/app/src/main/res/layout/nav_header_main.xml" value="0.3546875" />
       </map>
